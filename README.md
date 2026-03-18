@@ -130,8 +130,7 @@ $client->set('phpems:knows', json_encode(Cache::knows()));
 
 ## 使用(演示)
 
- * v6.0：https://phpems.is.js.cn/
- * v5.0：https://phpems5.is.js.cn/
+ * v6.1：https://phpems.oiuv.cn/
 
 ### 考试设置
 
